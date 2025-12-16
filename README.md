@@ -7,7 +7,6 @@ This project implements a **Perceptron Learning Algorithm** to predict whether a
 - Study Hours
 - Attendance Percentage
 
-This project is part of **Module 2 – Artificial Intelligence & Machine Learning** training.
 
 ---
 
@@ -82,6 +81,7 @@ Outputs PASS (1) or FAIL (0)
 This project demonstrates how a simple perceptron model can be used to solve a real-world classification problem. It helps in understanding the fundamentals of machine learning such as weights, bias, training epochs, and prediction.
 
 
+---
 
 ✨ Author
 
