@@ -81,3 +81,9 @@ Outputs PASS (1) or FAIL (0)
 
 This project demonstrates how a simple perceptron model can be used to solve a real-world classification problem. It helps in understanding the fundamentals of machine learning such as weights, bias, training epochs, and prediction.
 
+
+
+✨ Author
+
+Syeda Alia Samia
+
