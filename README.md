@@ -58,17 +58,8 @@ The perceptron is trained using a sample dataset and then used to predict result
 
 ---
 
-## ▶️ How to Run the Program
 
-### 1️⃣ Compile the Code
-```bash
-gcc perceptron.c -o perceptron.exe
-2️⃣ Run the Program
-bash
-Copy code
-perceptron.exe
 
----
 
 🧪 Sample Output
 
